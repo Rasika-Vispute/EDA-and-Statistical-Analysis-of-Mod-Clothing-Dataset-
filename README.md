@@ -33,9 +33,11 @@ The following data represents the price in dollars for branded shirts in a websi
 40 35 38 57 22 42 24 21 27 33
 
 
+
+
 PART-B ( Dataset Based)
 
-STATS MINI PROJECTS 
+STATS PROJECTS 
 
 This dataset contains self-reported clothing-fit feedback from customers as well as other ide information like reviews, ratings, product categories, catalog sizes, customers’ measurements (etc.) from 2 websites: 
 1. Mod Cloth
