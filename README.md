@@ -22,9 +22,8 @@ The following data represents the price in dollars for branded shirts in a websi
 40 35 38 57 22 42 24 21 27 33 
 
 # Use this data for answering following questions where relevant 
-
-Q1. Compute the mean, median and the mode of the data 
-Q2. Compute the range , variance and standard deviation of the data 
+Q1. Compute the mean, median and the mode of the data. 
+Q2. Compute the range, variance and standard deviation of the data.
 Q3. Find the mean deviation for the data . The mean deviation is defined as below. Mean deviation = (Σ|xi - x̄|) / n
 Q4. Calculate the Pearson coefficient of skewness and comment on the skewness of the data [A measure to determine the skewness of a distribution is called the Pearson coefficient of skewness. The formula is "skewness = 3(x̄-MD)/s" where MD is the Mean and s is the Standard Deviation The value of the coefficient if skewness usually ranges from –3 to 3. When the distribution is symmetric, the coefficient is zero; when the distribution is positively skewed , the coefficient is positive, and when the distribution is negatively skewed the coefficient is negative.] 
 Q5. Count the number of data values that fall within two standard deviations of the mean. Compare this with the answer from Chebyshev’s Theorem. 
