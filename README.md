@@ -22,6 +22,7 @@ The following data represents the price in dollars for branded shirts in a websi
 40 35 38 57 22 42 24 21 27 33 
 
 # Use this data for answering following questions where relevant 
+
 Q1. Compute the mean, median and the mode of the data 
 Q2. Compute the range , variance and standard deviation of the data 
 Q3. Find the mean deviation for the data . The mean deviation is defined as below. Mean deviation = (Σ|xi - x̄|) / n
@@ -86,7 +87,3 @@ This dataset contains self-reported clothing-fit feedback from customers as well
 4. Check if the shoe width feature affects the review summary with a 99% confidence interval. 
 5. Check if the length feature affects the review summary with a 95% confidence interval. 
 6. Does the average quality significantly differ for the different fits? Kindly test the relevant hypothesis test by having 0.05 alpha. Check the normality of the data before the above test. Alpha = .05
-
-
-
-# EDA-and-Statistical-Analysis-of-Mod-
