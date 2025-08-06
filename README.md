@@ -21,12 +21,11 @@ The following data represents the price in dollars for branded shirts in a websi
 27 35 26 43 35 14 24 12 23 31 
 40 35 38 57 22 42 24 21 27 33 
 
-Use this data for answering following questions where relevant 
+# Use this data for answering following questions where relevant 
 Q1. Compute the mean, median and the mode of the data 
 Q2. Compute the range , variance and standard deviation of the data 
 Q3. Find the mean deviation for the data . The mean deviation is defined as below. Mean deviation = (Σ|xi - x̄|) / n
-Q4. Calculate the Pearson coefficient of skewness and comment on the skewness of the data 
-[A measure to determine the skewness of a distribution is called the Pearson coefficient of skewness. The formula is "skewness = 3(x̄-MD)/s" where MD is the Mean and s is the Standard Deviation The value of the coefficient if skewness usually ranges from –3 to 3. When the distribution is symmetric, the coefficient is zero; when the distribution is positively skewed , the coefficient is positive, and when the distribution is negatively skewed the coefficient is negative.] 
+Q4. Calculate the Pearson coefficient of skewness and comment on the skewness of the data [A measure to determine the skewness of a distribution is called the Pearson coefficient of skewness. The formula is "skewness = 3(x̄-MD)/s" where MD is the Mean and s is the Standard Deviation The value of the coefficient if skewness usually ranges from –3 to 3. When the distribution is symmetric, the coefficient is zero; when the distribution is positively skewed , the coefficient is positive, and when the distribution is negatively skewed the coefficient is negative.] 
 Q5. Count the number of data values that fall within two standard deviations of the mean. Compare this with the answer from Chebyshev’s Theorem. 
 Q6. Find the three quartiles and the interquartile range (IQR). 
 Q7. Are there any outliers in the data set ? 
@@ -38,8 +37,7 @@ Q12. Create a probability distribution of the data and visualize it appropriatel
 Q13. What is the shape of the distribution of this dataset? Create an appropriate graph to determine that. Take 100 random samples with replacement from this dataset of size 5 each. Create a sampling distribution of the mean shirt prices. Compare with other sampling distributions of sample 
 size 10, 15, 20, 25, 30. State your observations. Does it corroborate the Central Limit Theorem? 
 Q14. Treat this dataset as a binomial distribution where p is the probability that a shirt costs above 25 dollars. What is the probability that out of a random sample of 10 shirts  7 are costing more than 25 dollars?
-Q15. NuCloth Claims that 60% of all shirts in their website cost less than 25 dollars . Using the Normal approximation of a Binomial distribution, find the probability that in a random sample of 10 shirts 7 of them will cost less than 25 dollars. 
-[ Note that the normal distribution can be used to approximate a binomial distribution if np>=5 and nq>=5 with the following correction for continuity P(X=z) = P(z-0.5 < X <  z+0.5 )  ] 
+Q15. NuCloth Claims that 60% of all shirts in their website cost less than 25 dollars . Using the Normal approximation of a Binomial distribution, find the probability that in a random sample of 10 shirts 7 of them will cost less than 25 dollars. [ Note that the normal distribution can be used to approximate a binomial distribution if np>=5 and nq>=5 with the following correction for continuity P(X=z) = P(z-0.5 < X <  z+0.5 )  ] 
 Q16. Compute a 95% Confidence Interval for the true price of a shirt in the NuCloth website  using appropriate distribution.( State reasons as to why did you use a z or t distribution) 
 Q17. A data scientist wants to estimate with 95% confidence the true proportion of shirts having price greater than 25 dollars in the NuCloth website.  A recent study showed that 60% of all shirts have a price greater than 25 dollars. The data scientist wants to be accurate within 2% of the true proportion. Find the minimum sample size necessary. 
 Q18. The same data scientist wants to estimate the true proportion of shirts having price greater than 25 dollars. She wants to be 90% confident and accurate within 5% of true proportion. Find the minimum sample size necessary. 
