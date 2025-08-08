@@ -1,27 +1,30 @@
 # Project: - EDA and Statistical Analysis of Mod Clothing Dataset 
-─ 
-# Overview This Statistics and EDA project is designed to train and test you on basic Data Exploratory and Statistical techniques used in the industry today. Apart from bringing you to speed with basic descriptive and inferential methods, you will also deep dive into a dataset and perform thorough cleaning and analysis in order to draw useful business insights from the data. This will expose you to what data scientists do most often–Exploratory Data Analysis. 
+Overview This Statistics and EDA project is designed to train and test you on basic Data Exploratory and Statistical techniques used in the industry today. Apart from bringing you to speed with basic descriptive and inferential methods, you will also deep dive into a dataset and perform thorough cleaning and analysis in order to draw useful business insights from the data. This will expose you to what data scientists do most often–Exploratory Data Analysis. 
 
-# Goals 
+##  Tools & Technologies Used
+`Python` · `Pandas` · `Numpy` · `Matplotlib` · `Seaborn` · `Scikit-learn`· `plotly`· `pyplot`· `statistics`· `scipy`· `random`
+`rank function` · `Pearson coefficient of skewness` · `IQR` · `crosstab`· `Test statistic`· `Degrees of freedom`· `p-value`· `Expected values`
+
+## Goals 
 1. Using the core statistical theoretical concepts and knowledge to solve real time problem statements. 
 2. Visualize a real time industry scenario where one can use these statistical concepts. 
 3. Detailed data analysis and number crunching using statistics 
 4. Exhaustive report building using EDA and visualization techniques to help the business take decisions using insights from the data 
 
-# Specifications 
+## Specifications 
 Part -I is concept based and walks you through various concepts of descriptive statistics, probability 
 distributions and inferential statistics including confidence intervals and hypothesis testing. 
 Part -II on the other hand is dataset based and explore various data cleaning options, data analysis 
 options and using EDA to derive deep and meaningful insights for the business 
 
-# PART-A (Concept Based)
+## PART-A (Concept Based)
 The following data represents the price in dollars for branded shirts in a website NuCloth 
 23 30 20 27 44 26 35 20 29 29 
 25 15 18 27 19 22 12 26 34 15 
 27 35 26 43 35 14 24 12 23 31 
 40 35 38 57 22 42 24 21 27 33 
 
-# Use this data for answering following questions where relevant 
+## Key Questions Explored
 Q1. Compute the mean, median and the mode of the data. 
 
 Q2. Compute the range, variance and standard deviation of the data.
@@ -68,8 +71,8 @@ Q20. A data scientist is researching the hypothesis that the average price of a 
     d. Complete the test and obtain the P-value. 
     e. Summarize his conclusion based on the P-value.
 
-# PART-B ( Dataset Based)
-# STATS PROJECTS 
+## PART-B (Dataset Based)
+## STATS PROJECTS 
 This dataset contains self-reported clothing-fit feedback from customers as well as other side information like reviews, ratings, product categories, catalog sizes, customers’ measurements (etc.) from 2 websites: 
 1. Mod Cloth 
 2. Rent the runway 
@@ -77,9 +80,10 @@ This dataset contains self-reported clothing-fit feedback from customers as well
 1. Mod Cloth sells women’s vintage clothing and accessories, from which the curator of the dataset collected data from three categories: dresses, tops, and bottoms. 
 2. Rent The Run Way is a unique platform that allows women to rent clothes for various occasions; they collected data from several categories. 
 
-# Problem Statement: Let’s assume you are working as a data scientist in a newly started textile company. You have given a dataset that consists of most of the features related to the measurements, clothes types, Product ID, User ID, etc. Now you suppose to work the dataset to identify the patterns to understand the customer’s preferred brands and how the company needs to brand its products based on the patterns that you will be found them out. Explore all the EDA concepts you learned and use a statistical test to ensure that your identification is true or false. 
+## Problem Statement: 
+Let’s assume you are working as a data scientist in a newly started textile company. You have given a dataset that consists of most of the features related to the measurements, clothes types, Product ID, User ID, etc. Now you suppose to work the dataset to identify the patterns to understand the customer’s preferred brands and how the company needs to brand its products based on the patterns that you will be found them out. Explore all the EDA concepts you learned and use a statistical test to ensure that your identification is true or false. 
 
-# Questions: 
+## Key Questions Explored: 
 1. Read the datasets, Check the data types and Change the data types appropriately. 
 2. Change the height column datatype to float after converting the values as shown Below. 5.7 
 3. Rename the names of the columns which have space in between the column. Ex: shoe size as shoe_size etc. 
@@ -98,10 +102,18 @@ This dataset contains self-reported clothing-fit feedback from customers as well
 11. What is the relationship between height and weight? Describe what kind of relationship it has. 
 12. Plot the pair plot for the numerical plot. Explain according to your problem statement how the pair plot would help you. 
 
-# Statistical Analysis: 
+## Statistical Analysis: 
 1. Test the claim that the category feature and review summary have any relationship among them. The level of significance is 5%. 
 2. Test statistically whether the size and hips have any relationship using 0.05 alpha. Before the above test, Test the normality test. 
 3. Does the quality significantly differ for any one shoe width? Test the test with 96%confidence intervals. Check the normality of the data before the above test. Alpha = .05 
 4. Check if the shoe width feature affects the review summary with a 99% confidence interval. 
 5. Check if the length feature affects the review summary with a 95% confidence interval. 
 6. Does the average quality significantly differ for the different fits? Kindly test the relevant hypothesis test by having 0.05 alpha. Check the normality of the data before the above test. Alpha = .05
+
+##  Contributions
+Suggestions, improvements, and issues are welcome. Feel free to fork the repo or raise a pull request!
+
+## Contact
+**Rasika Vispute**  
+Email: rasikavispute32@gmail.com 
+LinkedIn: https://www.linkedin.com/in/rasikavispute/
